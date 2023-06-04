@@ -4,10 +4,6 @@
  */
 package actividad4.ejercicio42;
 
-/**
- *
- * @author maryc
- */
 public class LocalComercial extends Local {
     
     protected static double valorArea = 3000000;
